@@ -1,0 +1,3 @@
+[ 'zara coat 3', 'adidas original', 'iphone 13 pro' ]
+ | 6547b3c07244490f95dfb340 | 
+6547b3c07244490f95dfb340

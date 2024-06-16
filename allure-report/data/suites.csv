@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 01 19:06:04 CET 2023","Wed Nov 01 19:06:16 CET 2023","12520","","ResponseIntercept.spec.js","","","","@API Place Order",""
+"passed","Wed Nov 01 19:06:04 CET 2023","Wed Nov 01 19:06:20 CET 2023","16576","","WebAPIPart2.spec.js","","","","Test Case 2",""
+"passed","Wed Nov 01 19:06:04 CET 2023","Wed Nov 01 19:06:16 CET 2023","12597","","Web-API-Testing.spec.js","","","","@API Place Order",""
+"passed","Wed Nov 01 19:06:04 CET 2023","Wed Nov 01 19:06:17 CET 2023","13495","","RequestIntercept.spec.js","","","","@API Security test request intercept",""
+"passed","Wed Nov 01 19:06:04 CET 2023","Wed Nov 01 19:06:29 CET 2023","25637","","WebAPIPart2.spec.js","","","","@API Browser Context-Validating login",""
